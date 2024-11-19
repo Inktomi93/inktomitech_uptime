@@ -6,33 +6,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-  - name: Authentik Domain
-    url: https://authentik.inktomi.tech
   - name: OpenWebUI
     url: https://openwebui.inktomi.tech
-  - name: Pi-hole
-    url: https://pihole.inktomi.tech
-  - name: SillyTavern
-    url: https://sillytavern.inktomi.tech
   - name: StirlingPDF
     url: https://stirlingpdf.inktomi.tech
-  - name: TabbyAPI
-    url: https://tabbyapi.inktomi.tech
-  - name: vLLM
-    url: https://vllm.inktomi.tech
-  - name: ComfyUI
-    url: https://comfyui.inktomi.tech
-  - name: Portainer
-    url: https://portainer.inktomi.tech
 
 status-website:
   # cname: demo.upptime.js.org
