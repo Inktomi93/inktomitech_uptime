@@ -37,7 +37,7 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /inktomitech_uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/Inktomi93/inktomitech_uptime/blob/a32dd2d9c55434faaa6a53d4fe99947f663e7fd5/assets/favicon.svg
   name: InktomiTech Status Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
