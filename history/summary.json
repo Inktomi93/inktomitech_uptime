@@ -40,19 +40,19 @@
     "url": "https://openwebui.inktomi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/openwebui.inktomi.tech.ico",
     "slug": "open-web-ui",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "status": "up",
+    "uptime": "58.45%",
+    "uptimeDay": "58.45%",
+    "uptimeWeek": "58.45%",
+    "uptimeMonth": "58.45%",
+    "uptimeYear": "58.45%",
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-20": 592
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stirlingpdf.inktomi.tech.ico",
     "slug": "stirling-pdf",
     "status": "down",
-    "uptime": "4.87%",
-    "uptimeDay": "4.87%",
-    "uptimeWeek": "4.87%",
-    "uptimeMonth": "4.87%",
-    "uptimeYear": "4.87%",
+    "uptime": "2.85%",
+    "uptimeDay": "2.85%",
+    "uptimeWeek": "2.85%",
+    "uptimeMonth": "2.85%",
+    "uptimeYear": "2.85%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2024-11-20": 284,
+      "2024-11-20": 875,
       "2024-11-19": 508
     }
   }
