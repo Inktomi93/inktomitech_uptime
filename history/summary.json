@@ -40,12 +40,12 @@
     "url": "https://openwebui.inktomi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/openwebui.inktomi.tech.ico",
     "slug": "open-web-ui",
-    "status": "up",
-    "uptime": "74.89%",
+    "status": "down",
+    "uptime": "74.97%",
     "uptimeDay": "88.05%",
-    "uptimeWeek": "74.89%",
-    "uptimeMonth": "74.89%",
-    "uptimeYear": "74.89%",
+    "uptimeWeek": "74.97%",
+    "uptimeMonth": "74.97%",
+    "uptimeYear": "74.97%",
     "time": 308,
     "timeDay": 308,
     "timeWeek": 308,
@@ -73,7 +73,7 @@
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-11-21": 1038,
+      "2024-11-21": 1048,
       "2024-11-20": 1440,
       "2024-11-19": 508
     }
