@@ -6,10 +6,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: OpenWebUI
-    url: https://openwebui.inktomi.tech
-  - name: StirlingPDF
-    url: https://stirlingpdf.inktomi.tech
+#  - name: OpenWebUI
+#    url: https://openwebui.inktomi.tech
+#  - name: StirlingPDF
+#    url: https://stirlingpdf.inktomi.tech
 
 status-website:
   # cname: demo.upptime.js.org
