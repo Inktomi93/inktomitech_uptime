@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 83,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 113,
+    "timeDay": 92,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -28,55 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 198,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 183,
+    "timeDay": 203,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "OpenWebUI",
-    "url": "https://openwebui.inktomi.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/openwebui.inktomi.tech.ico",
-    "slug": "open-web-ui",
-    "status": "up",
-    "uptime": "72.06%",
-    "uptimeDay": "73.33%",
-    "uptimeWeek": "72.06%",
-    "uptimeMonth": "72.06%",
-    "uptimeYear": "72.06%",
-    "time": 297,
-    "timeDay": 288,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
-    "dailyMinutesDown": {
-      "2024-11-21": 384,
-      "2024-11-20": 592
-    }
-  },
-  {
-    "name": "StirlingPDF",
-    "url": "https://stirlingpdf.inktomi.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/stirlingpdf.inktomi.tech.ico",
-    "slug": "stirling-pdf",
-    "status": "down",
-    "uptime": "1.57%",
-    "uptimeDay": "0.99%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
-    "time": 506,
-    "timeDay": 590,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
-    "dailyMinutesDown": {
-      "2024-11-22": 64,
-      "2024-11-21": 1425,
-      "2024-11-20": 1440,
-      "2024-11-19": 508
-    }
   }
 ]
